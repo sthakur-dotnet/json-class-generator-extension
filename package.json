@@ -29,5 +29,9 @@
         "title": "JSON: Format & Generate Classes"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sthakur-dotnet/json-class-generator-extension.git"
   }
 }
