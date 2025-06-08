@@ -26,7 +26,7 @@ jobs:
 
       - name: Commit and push version bump
         run: |
-          git config user. name "GitHub Actions"
+          git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add package.json
           git commit -m "Bump extension version"
