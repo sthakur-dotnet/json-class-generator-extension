@@ -4,6 +4,7 @@
   "description": "View JSON tree and generate C#, Java, TypeScript classes from JSON inside VS Code",
   "version": "0.0.3",
   "publisher": "suvankarthakur",
+  "icon":"icon.png",
   "engines": {
     "vscode": ">=1.60.0"
   },
