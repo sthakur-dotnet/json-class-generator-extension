@@ -2,7 +2,7 @@
   "name": "json-class-generator",
   "displayName": "JSON Class Generator",
   "description": "View JSON tree and generate C#, Java, TypeScript classes from JSON inside VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "suvankarthakur",
   "engines": {
     "vscode": ">=1.60.0"
